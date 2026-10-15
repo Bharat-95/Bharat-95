@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Bharat 👋
 
-<!--
-**Bharat-95/Bharat-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack & mobile developer** — I build products end to end, from React Native apps to the APIs and admin tools behind them.
 
-Here are some ideas to get you started:
+### 🚀 What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Pasprive** — a dining rewards platform connecting customers and restaurants.
+- 📱 Customer app (React Native) with membership tiers (Free, Plus, Black) and cashback points
+- 🍽️ Table booking powered by a restaurant-management API integration
+- 🧾 Merchant app for POS terminals — bookings, orders, pickups, and payments pushed from app to POS
+
+### 🛠️ Tech I work with
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0A66C2?style=flat)
+
+### 📂 Other work
+
+- **Lingeshwara** — client-facing site plus an admin dashboard, built and deployed end to end
+- **my-portfolio** — my personal portfolio site
+
+### 📫 Get in touch
+
+- Email: bharat.nanavathula@gmail.com
+- Portfolio: _add link_
+- LinkedIn: _add link_
