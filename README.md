@@ -19,11 +19,6 @@
 
 ### 📂 Other work
 
-- **Lingeshwara** — client-facing site plus an admin dashboard, built and deployed end to end
-- **my-portfolio** — my personal portfolio site
+- **QNEWS** — client-facing site plus an admin dashboard, built and deployed end to end
+- **HV TECHNOLOGIES** — A technology companies portfolio site
 
-### 📫 Get in touch
-
-- Email: bharat.nanavathula@gmail.com
-- Portfolio: _add link_
-- LinkedIn: _add link_
